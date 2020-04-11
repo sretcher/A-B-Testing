@@ -25,6 +25,7 @@ Since (190)(.258) = 49 (190)(.742) = 141 (183)(.202) = 37 (183)(.798) = 146, we 
 Let p1 be the true break-off-rate for surveys with a red welcome screen and p2 be the true break-off-rate for surveys with a white welcome screen. We will conduct this test with a level of significance of 0.1.
 
 Ho: p1 - p2 = 0
+
 Ha: p1 - p2 < 0
 
 
