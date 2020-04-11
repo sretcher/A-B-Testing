@@ -9,4 +9,4 @@ In Survey Methodology (Dec. 2013), factors that influence survey reponse rates w
 | ------------- |:-------------:| -----:|
 | Number of Web users     | 190| 183 |
 | Number who break off survey     | 49      |   37 |
-| Break-off rate | are neat      |    .258 | .202
+| Break-off rate |.258 | .202
