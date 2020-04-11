@@ -1,1 +1,2 @@
-# A-B-Testing
+
+In Survey Methodology (Dec. 2013), factors that influence survey reponse rates were investigated. A designed experiment allowed Web users to interact with two different versions of surveys. One format used a welcome screen with a white background and the other used a welcome screen with a red background. The break-off-rates (the porportion of sampled users who quit the survey before completing it) was recorded for both formats. We will use a two sample test of hypothesis about (p1 - p2) to find if the true break-off-rate is lower for the format with the red welcome screen than the format with the white welcome screen. 
