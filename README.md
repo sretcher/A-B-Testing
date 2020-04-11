@@ -10,3 +10,8 @@ In Survey Methodology (Dec. 2013), factors that influence survey reponse rates w
 | Number of Web users     | 190| 183 |
 | Number who break off survey     | 49      |   37 |
 | Break-off rate |.258 | .202
+
+
+### Conditions Required for Vaid Large-Sample Inferences about (p1 - p2)
+1. The two samples are randomly selected in an independent manner from the two populations.
+2. The sample sizes, n1 and n2, are large
